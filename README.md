@@ -36,3 +36,29 @@ npm run dev
 
 # Build for production
 npm run build
+
+Open http://localhost:5173 to view it! [web:3]
+
+📁 Project Structure
+src/
+
+├── components/
+
+├── pages/
+
+├── App.jsx
+
+├── main.jsx
+
+└── index.css (Tailwind)
+
+Live Demo
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0b55b919-4ed9-4c2a-adae-87e26372964a" />
+
+License
+MIT License [web:9]
+
+
+**Ready-to-use README.md** for your **Amaze** React + Tailwind + Vite project! Matches the modern e-commerce design from your screenshot.[1][2]
+
