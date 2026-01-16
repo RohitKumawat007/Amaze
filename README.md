@@ -2,6 +2,8 @@
 
 **Amaze** is a full-featured e-commerce website built with **React.js**, **Tailwind CSS**, and **Vite**. Features modern product browsing, search, categories (Men/Women/Kids/Brands), cart functionality, and sleek responsive design. [file:23]
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0b55b919-4ed9-4c2a-adae-87e26372964a" />
+
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -51,10 +53,6 @@ src/
 ├── main.jsx
 
 └── index.css (Tailwind)
-
-Live Demo
-
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0b55b919-4ed9-4c2a-adae-87e26372964a" />
 
 License
 MIT License [web:9]
