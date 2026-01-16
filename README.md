@@ -1,16 +1,38 @@
-# React + Vite
+# Amaze 🛍️ — Modern E-Commerce Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Amaze** is a full-featured e-commerce website built with **React.js**, **Tailwind CSS**, and **Vite**. Features modern product browsing, search, categories (Men/Women/Kids/Brands), cart functionality, and sleek responsive design. [file:23]
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🔍 Product search & filtering
+- 📱 Responsive categories (Men/Women/Kids/Brands/New Arrivals)
+- 🛒 Shopping cart with live updates
+- 🎨 Modern UI with hero sections & stats
+- ⚡ Fast loading with Vite [file:23]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React 18** (Components, Hooks, State Management)
+- **Tailwind CSS** (Utility-first styling)
+- **Vite** (Fast dev/build tool)
+- **JavaScript/TypeScript** [web:1]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Setup & Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/amaze-ecommerce.git
+cd amaze-ecommerce
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
